@@ -37,9 +37,6 @@
 <p align="center"> <img src = "https://user-images.githubusercontent.com/64072741/126223447-4539f2a6-dfcb-4237-bbdf-e072a257e00b.png"> </p>
 
 ### 2. 구독 추천 기능.
-<p align="center"> <img src = "https://user-images.githubusercontent.com/64072741/126216973-a02d65fe-f50d-4c96-aec0-6d4b47c2c268.png">  </p>
-
-### 3. 데이터 관리 기능.
 <p align="center"> <img src = "https://user-images.githubusercontent.com/64072741/126216983-f7abc436-4802-4873-8af0-2601bfc6b763.png">  </p><br>
 
 ##  🛠️  Process
