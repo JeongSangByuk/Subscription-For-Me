@@ -34,7 +34,7 @@
 
 ##  🖥️  Preview
 ### 1. 구독 관리 기능.
-<p align="center"> <img src = "https://user-images.githubusercontent.com/64072741/126216375-7bce03a5-3a24-47a9-857e-65cae2450093.png"> </p>
+<p align="center"> <img src = "https://user-images.githubusercontent.com/64072741/126223447-4539f2a6-dfcb-4237-bbdf-e072a257e00b.png"> </p>
 
 ### 2. 구독 추천 기능.
 <p align="center"> <img src = "https://user-images.githubusercontent.com/64072741/126216973-a02d65fe-f50d-4c96-aec0-6d4b47c2c268.png">  </p>
