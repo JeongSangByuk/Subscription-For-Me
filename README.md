@@ -1,7 +1,7 @@
 # 💵 Subsrciption-For-Me
 <img src = "https://img.shields.io/badge/ProjectType-TeamProject-orange?style=flat-square">  <img src = "https://img.shields.io/badge/Tools-AndroidStudio-brightgreen?style=flat-square&logo=AndroidStudio">  <img src = "https://img.shields.io/badge/Language-Java-critical?style=flat-square&logo=Java">
 >합리적인 구독 서비스 이용을 돕는 '구독 For Me'<br>
->2020 마이데이터 BI 기획·개발 공모전 최우수상 수상<br>
+>2020 마이데이터 BI 기획·개발 공모전 최우수상 수상(데이터산업진흥원장상)<br>
 <p align="center"> <img src = "https://user-images.githubusercontent.com/64072741/126213583-7e893fe0-7eea-4667-bb51-08f99580b6bc.png"> </p><br><br>
 
 ##  💡  Background
